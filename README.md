@@ -9,3 +9,4 @@
 
 [Lab5](https://github.com/Trisha81/AIML-2025/blob/main/Lab_5.ipynb): Logistic regression with titanic data set
 
+[Lab6](https://github.com/Trisha81/AIML-2025/blob/main/Lab__06.ipynb): K-Nearest Neighbour Classification
