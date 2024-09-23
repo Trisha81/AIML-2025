@@ -6,3 +6,6 @@
 [Lab3](https://github.com/Trisha81/AIML-2025/blob/main/LAB_3.ipynb) : Implement AI Game Strategy using Adversarial Search Algorithms
 
 [Lab4](https://github.com/Trisha81/AIML-2025/blob/main/LAB_04.ipynb) : Linear regression model using us housing data 
+
+[Lab5](https://github.com/Trisha81/AIML-2025/blob/main/Lab_5.ipynb): Logistic regression with titanic data set
+
